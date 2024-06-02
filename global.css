@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-clash-display: "Clash Display";
+  --font-dm-sans: "DM Sans";
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+  --font-nunito-sans: "Nunito Sans";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-lgi: 19px;
+  --font-size-7xl: 26px;
+  --font-size-8xs-2: 4.2px;
+  --font-size-xs-8: 11.8px;
+  --font-size-lg: 18px;
+  --font-size-29xl: 48px;
+  --font-size-10xl: 29px;
+  --font-size-19xl: 38px;
+  --font-size-9xl: 28px;
+  --font-size-3xl: 22px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: rgba(0, 0, 0, 0.5);
+  --color-black: #000;
+  --color-darkslategray: #333;
+  --color-tomato: #ff5555;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-base: 16px;
+  --gap-16xl: 35px;
+  --gap-xs: 12px;
+  --gap-21xl: 40px;
+  --gap-5xs: 8px;
+  --gap-9xs: 4px;
+  --gap-5xl: 24px;
+
+  /* Paddings */
+  --padding-21xl: 40px;
+  --padding-xl: 20px;
+  --padding-12xs: 1px;
+  --padding-18xl: 37px;
+  --padding-5xl: 24px;
+  --padding-3xs: 10px;
+  --padding-lg: 18px;
+  --padding-mid: 17px;
+  --padding-10xs: 3px;
+  --padding-6xs: 7px;
+  --padding-sm: 14px;
+  --padding-12xl: 31px;
+  --padding-11xl: 30px;
+  --padding-65xl: 84px;
+  --padding-44xl: 63px;
+  --padding-80xl: 99px;
+  --padding-27xl: 46px;
+  --padding-4xl: 23px;
+  --padding-13xl: 32px;
+  --padding-base: 16px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+  --br-base: 16px;
+
+  /* Effects */
+  --s: -13px 13px 104.09px rgba(161, 161, 161, 0.1);
+}
